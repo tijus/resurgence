@@ -1,0 +1,1 @@
+[13-Sep-2016 14:31:02 UTC] PHP Fatal error:  Call to undefined function strip_tag() in /home/kjsieit/public_html/SC/app/updates.php on line 73
