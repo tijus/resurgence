@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A21F24</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#666666</color>
+    <color name="click_start_color">#FF5722</color>
+    <color name="click_end_color">#FFEB3B</color>
+    <color name="click_end_color_bg">#4CAF50</color>
+    <color name="click_start_color_bg">#4CAF50</color>
+    <color name="desc">#666666</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+</resources>
