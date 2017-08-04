@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_Noticeboard"
+            android:title="Noticeboard" />
+        <item
+            android:id="@+id/nav_Results"
+            android:title="Results" />
+        <item
+            android:id="@+id/nav_Admission"
+            android:title="Admission" />
+
+    </group>
+
+    <item android:title="Students Council">
+        <menu>
+            <item
+                android:id="@+id/nav_member"
+                android:title="Members" />
+            <item
+                android:id="@+id/nav_updates"
+                android:title="Updates" />
+            <item
+                android:id="@+id/nav_fests"
+                android:title="Fests" />
+            <item
+                android:id="@+id/nav_contact"
+                android:title="Contact" />
+        </menu>
+    </item>
+
+</menu>
